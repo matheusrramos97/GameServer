@@ -1,0 +1,2 @@
+- [X] criar pontos na historia da producao do projeto.
+- [] verificar mudancas feitas no projeto
